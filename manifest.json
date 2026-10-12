@@ -1,0 +1,11 @@
+
+{
+  "name": "Tom & Jerry Ludo",
+  "short_name": "TomJerry",
+  "description": "Tom and Jerry Ludo Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#202437",
+  "theme_color": "#202437",
+  "orientation": "portrait"
+}
